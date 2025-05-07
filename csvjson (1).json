@@ -1,0 +1,44 @@
+[
+  {
+    "CLASS NAME": "AGRICULTURAL DRY LAND",
+    "LOSS": 143.964,
+    "GAIN": 61.2054,
+    "CHANGE": -2.575598006,
+    "UNCHANGED": 32.1318
+  },
+  {
+    "CLASS NAME": "HIGHLY DENCE URBAN",
+    "LOSS": 143.6256,
+    "GAIN": 239.9409,
+    "CHANGE": 0.9550996,
+    "UNCHANGED": 100.8432
+  },
+  {
+    "CLASS NAME": "LOW DENCE URBAN",
+    "LOSS": 163.3032,
+    "GAIN": 169.6887,
+    "CHANGE": 0.115373358,
+    "UNCHANGED": 55.3464
+  },
+  {
+    "CLASS NAME": "SHRUB",
+    "LOSS": 82.8792,
+    "GAIN": 43.9452,
+    "CHANGE": -1.654049094,
+    "UNCHANGED": 23.5386
+  },
+  {
+    "CLASS NAME": "VEGETATION",
+    "LOSS": 60.084,
+    "GAIN": 79.164,
+    "CHANGE": 1.107165239,
+    "UNCHANGED": 17.2332
+  },
+  {
+    "CLASS NAME": "WATER BODIES",
+    "LOSS": 11.0313,
+    "GAIN": 10.9431,
+    "CHANGE": -0.012182994,
+    "UNCHANGED": 7.2396
+  }
+]
